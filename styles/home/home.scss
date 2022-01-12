@@ -100,13 +100,14 @@
         overflow: auto;
         align-items: center;
         gap: 1rem;
+        // background-color: blue;
         .container_activity {
             // outline: 1px solid red;
             flex: 0 0 auto;
             background: #fdf2fd;
             border-radius: 2rem;
             width: 35%;
-            height: 65%;
+            height: 60%;
         }
     }
 }
