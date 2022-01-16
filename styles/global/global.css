@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.padding_1 {
+  padding: 1rem;
+}
+/*# sourceMappingURL=global.css.map */
